@@ -3,3 +3,4 @@ git commit -m file2play.txt
 git push origin master
 cd /Users/andy/DataScienceCourse
 quit
+changing content
